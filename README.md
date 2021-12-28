@@ -8,7 +8,20 @@ We will explore the data in the SQLite database. In order to review the data in 
 ## Results
 - From our analysis of the dataset we were able to extract insights on the precipitation in the area over a one year timeframe. We reviewed the weather data from August 23, 2016 - August 23, 2017. Based on the Sumamry Statistics for precipitation, the average was ~18% based on 2,021 observations. We can infer that Oahu is mostly sunny throughout the day and experienced low rainfall.
 
+
   - Precipitation Summary Statistics:
+  
+  ![precipitation_summary_stats](https://github.com/Jflux05/surfs_up/blob/e3ba2a28d3443b677e2417f8219a9036137f3f13/Resources/precipitation%20summary%20stats.png)
+  ![precipitation_bar_graph](https://github.com/Jflux05/surfs_up/blob/e3ba2a28d3443b677e2417f8219a9036137f3f13/Resources/precipitation%20bar%20graph.png)
+  
+  
+ - In addition to looking at the annual precipitation levels, we looked at the number of weather stations that were actively collecting precipitation data and focused on one station that had the most observations recorded (station USC00519281 had 2,772 entries). We then used the information collected from this station to review the temperatures for the same time period. 
+  - Our results showed: (and can be seen in the histogram below)
+    - The average temperature throughout the year was 72°F 
+    - A low temperature of 54°F 
+    - A high temperature of 85°F
+
+![12month_temp_observation_frequency](https://github.com/Jflux05/surfs_up/blob/e3ba2a28d3443b677e2417f8219a9036137f3f13/Resources/12month_temp_observation_frequency.png)
 
 
 
