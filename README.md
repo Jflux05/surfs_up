@@ -5,6 +5,11 @@ The purpose of this analysis is to determine if a desired location in Oahu, Hawa
 
 We will explore the data in the SQLite database. In order to review the data in depth we used SQLAlchemy to connect and generate queries to pull the necessary information needed for our analysis. Jupiter notebook was used to import dependencies and create the commands to pull the data from the SQLite database.
 
+## Results
+- From our analysis of the dataset we were able to extract insights on the precipitation in the area over a one year timeframe. We reviewed the weather data from August 23, 2016 - August 23, 2017. Based on the Sumamry Statistics for precipitation, the average was ~18% based on 2,021 observations. We can infer that Oahu is mostly sunny throughout the day and experienced low rainfall.
+
+  - Precipitation Summary Statistics:
+
 
 
 
