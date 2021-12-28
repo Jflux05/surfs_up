@@ -24,6 +24,16 @@ We will explore the data in the SQLite database. In order to review the data in 
 ![12month_temp_observation_frequency](https://github.com/Jflux05/surfs_up/blob/e3ba2a28d3443b677e2417f8219a9036137f3f13/Resources/12month_temp_observation_frequency.png)
 
 
+- Beyond our investors intial requests, we expanded our analysis to dive into observations recorded in the months of June and December regardless of year, the results showed:
+
+  - The average temperature range is in the low 70's.
+  - Both June and December showed similar min/max and average temperatures. 
+  - The assumption is that the temperature does not have dramatic fluctuations throughout the year.
+
+## Summary
+From our analysis it is safe to say that the temperature of Oahu, Hawaii is relatively the same throughout the year and the chances of continuous rainfall is quite low. 
+
+By creating two additional queries that gather the specific precipitation % in June and December we would have an even clearer picture of the weather conditions in Oahu, Hawaii in June or December. Utilizing the precipitation percentages and the average temperatures to derive valuable insights should prove to the investor that investing in Surf n' Shake is a good venture and that Oahu, Hawaii is the ideal location.
 
 
 
