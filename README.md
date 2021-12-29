@@ -42,5 +42,5 @@ By creating two additional queries that gather the specific precipitation % and 
  
  
  **December:**
- ![Dec PrecipTemps Query](https://github.com/Jflux05/surfs_up/blob/db966f22c2ea3076496bb61fc9d4f58ad6faa6fb/Resources/June%20Precip%20Temps.png)
+ ![Dec PrecipTemps Query](https://github.com/Jflux05/surfs_up/blob/7e89aa85c25c9a318a570091cc4d3fa126981c1e/Resources/December%20Precip%20Temps.png)
 
